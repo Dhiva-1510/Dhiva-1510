@@ -18,7 +18,6 @@
 - 🌱 Learning: *Advanced Backend & System Design*  
 - 💬 Ask me about: *Fullstack Development, UI/UX Design*  
 - 📫 Reach me at: [*LinkedIn*](http://www.linkedin.com/in/dhivakar-sankar)  
-- ⚡ Fun fact: I find bugs faster than I find my charger! ⚙  
 
 ---
 
@@ -28,10 +27,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
   </a>
   <a href="https://www.codechef.com/users/kit27csbs14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" width="48" height="48" style="filter: invert(40%) sepia(80%) saturate(500%) hue-rotate(20deg)"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/codechef.png" alt="codechef"/>
   </a>
   <a href="https://www.hackerrank.com/profile/kit27_csbs14" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="48" height="48"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/FFFFFF/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo"/>
   </a>
   <a href="https://leetcode.com/u/kit27csbs14/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" height="48"/>
