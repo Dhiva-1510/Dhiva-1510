@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Sleek Black & White Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Dhivakar%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=55&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=130&section=header&text=Dhivakar%20S&fontSize=65&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descSize=15" alt="header"/>
 
 <!-- Monochrome Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%E2%9A%A1;Building+Elegant+Experiences+%E2%9C%A8;Crafting+Scalable+Solutions+%F0%9F%92%BB;Black+%26+White+%7C+Bold+%26+Beautiful" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome;Building+Elegant+Experiences+%E2%9C%A8;Crafting+Scalable+Solutions+%F0%9F%92%BB;Black+%26+White+%7C+Bold+%26+Beautiful" alt="Typing SVG" />
 
 <!-- Minimal Social Badges -->
 <p align="center">
