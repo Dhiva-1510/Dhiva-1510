@@ -98,5 +98,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-<p align = "center">
-%F0%9F%8C%A0"Code is like humor. When you have to explain it, it's bad."%F0%9F%8C%A0 – Cory House </p>
+<p align="center">
+🌌 ✨ Debugging feels like exploring a space, mysterious but fascinating ✨🌌
+</p>
+
+
