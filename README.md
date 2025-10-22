@@ -3,17 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=130&section=header&text=Dhivakar%20S&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descSize=15" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+To+My+Space+%F0%9F%9B%B8;Building+Elegant+Website+%F0%9F%8C%A0;Passonate+UI/UX+Designer+%E2%9C%A8;" alt="Typing SVG" />
-
-<!-- Monochrome Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
-
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 <h2>About Me</h2>
-<p>Passionate and curious developer who loves crafting full-stack web applications and solving complex coding challenges.
-Currently exploring the depths of JavaScript, React, and MongoDB, while strengthening my problem-solving foundation with C++, Python, and Java.Always eager to learn, build, and collaborate to create impactful and innovative digital solutions.</p>
+<p>Passionate developer who loves crafting full-stack web applications with stunning UI/UX and tackling complex coding challenges. Currently exploring the depths of  React, Node and MongoDB, while strengthening my problem-solving foundation with C++ and Python. I’m always eager to learn, build, and collaborate creating impactful and innovative digital solutions that push the boundaries of technology, inspired by the vastness of space..</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
@@ -59,48 +54,49 @@ Currently exploring the depths of JavaScript, React, and MongoDB, while strength
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhiva-1510&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiva-1510&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
 
 ### 📈 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiva-1510&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
----
+### Currently Learning
+- Advanced Data Structures and Algorithms
+- Full-Stack Web Development (MERN Stack)
+- Competitive Programming Techniques
+- Machine Learning and AI Integration
 
-<div align="center">
-
-### 💭 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" alt="footer"/>
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="http://www.linkedin.com/in/dhivakar-sankar">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Dhiva-1510">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kit27.csbs14@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.codechef.com/users/kit27csbs14">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef">
+  </a>
+  <a href="https://leetcode.com/u/kit27csbs14">
+    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000" alt="Leetcode">
+  </a>
+  <a href="https://codolio.com/profile/Dhiva_S">
+    <img src="https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codolio">
+  </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<p align = "center">
+%F0%9F%8C%A0"Code is like humor. When you have to explain it, it's bad."%F0%9F%8C%A0 – Cory House </p>
