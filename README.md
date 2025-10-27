@@ -85,15 +85,16 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+   <a href="https://leetcode.com/u/kit27csbs14">
+    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000" alt="Leetcode">
+  </a>
   <a href="https://www.codechef.com/users/kit27csbs14">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef">
   </a>
-  <a href="https://leetcode.com/u/kit27csbs14">
-    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000" alt="Leetcode">
-  </a>
   <a href="https://codolio.com/profile/Dhiva_S">
-    <img src="https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codolio">
-  </a>
+  <img src="https://img.shields.io/badge/Codeolio-white?style=for-the-badge&logo=codepen&logoColor=000000" alt="Codolio">
+</a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
