@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=130&section=header&text=Dhivakar%20S&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descSize=15" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+To+My+Space+%F0%9F%9B%B8;Building+Elegant+Website+%F0%9F%8C%A0;Passonate+UI/UX+Designer+%E2%9C%A8;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A2FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+To+My+Space+%F0%9F%9B%B8;Building+Elegant+Website+%F0%9F%8C%A0;Passonate+UI/UX+Designer+%E2%9C%A8;" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
