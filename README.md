@@ -55,7 +55,7 @@
 ### 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dhiva-1510&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiva-1510&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
+
 
 ### 📈 Most Used Languages
 
